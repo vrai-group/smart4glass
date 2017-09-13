@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progetto Smart Glasses Augmented Reality 2017", "Progetto Smart Glasses Augmented Reality 2017.csproj", "{A5873423-1F7D-B948-6788-B0B233F1D7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progetto Smart Glasses Augmented Reality 2017.Editor", "Progetto Smart Glasses Augmented Reality 2017.Editor.csproj", "{4972988F-1B75-130C-3FDE-097C4B5566B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5873423-1F7D-B948-6788-B0B233F1D7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5873423-1F7D-B948-6788-B0B233F1D7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5873423-1F7D-B948-6788-B0B233F1D7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5873423-1F7D-B948-6788-B0B233F1D7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4972988F-1B75-130C-3FDE-097C4B5566B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4972988F-1B75-130C-3FDE-097C4B5566B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4972988F-1B75-130C-3FDE-097C4B5566B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4972988F-1B75-130C-3FDE-097C4B5566B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
