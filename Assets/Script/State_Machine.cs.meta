@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 360213dd291b56e4394c639cbd28782e
+timeCreated: 1501484920
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sphere1: {instanceID: 0}
+  - sphere2: {instanceID: 0}
+  - sphere3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

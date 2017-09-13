@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-09-06 12:12:04" name="pft3a" targetId="430517a30575452ba2fe34eca768e671" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-09-06 12:05:32" name="pft2a" targetId="da166115b226465dbaa9631646e17814" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-09-06 11:55:40" name="pf3a" targetId="020625d743d74d768bfa1d1d8d5945cc" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-09-06 12:15:19" name="pf4a" targetId="6b95d3079b2f425d8cac11eae83eefda" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-09-06 12:01:42" name="pft1a" targetId="82883177bcd849a396cedd27ad4b91c1" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-09-06 11:45:27" name="pf2a" targetId="7d4652040ca14d0f8c7c3342fd177e23" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-09-06 11:29:39" name="pf1a" targetId="7a6a0256e8c04ad9811c5121d2332fdc" version="2.0" />
+  </TargetSet>
+</QCARInfo>
